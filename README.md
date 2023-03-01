@@ -1,2 +1,2 @@
 # trailhead-git
-#JUST TESTING 
+# Creating a merge conflict on branch-1
